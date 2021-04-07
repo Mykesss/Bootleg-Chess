@@ -11,7 +11,7 @@ public class DesktopLauncher {
 		config.foregroundFPS = 60;
 		config.width = 800;
 		config.height = 800;
-		config.title = "ASStolfo V2";
+		config.title = "ASStolfo V0.2";
 
 		new LwjglApplication(new Launcher(), config);
 
